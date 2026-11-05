@@ -1,0 +1,13 @@
+{
+  "name": "julio-bot",
+  "version": "1.0.0",
+  "main": "julio-bot.js",
+  "scripts": {
+    "start": "node julio-bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "qrcode-terminal": "^0.12.0",
+    "qrcode": "^1.5.3"
+  }
+}
